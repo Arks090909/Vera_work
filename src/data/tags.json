@@ -1,0 +1,120 @@
+{
+  "Top": {
+    "style": ["blouse", "front button down", "tank", "tee"],
+    "neck": [
+      "boat neck",
+      "round neck",
+      "mock neck",
+      "scoop neck",
+      "sweetheart",
+      "v neck",
+      "one shoulder",
+      "off shoulder",
+      "strapless",
+      "plunge",
+      "not visible",
+      "split neck"
+    ],
+    "sleeve": [
+      "cap",
+      "elbow",
+      "long",
+      "short",
+      "sleeveless",
+      "three-quater",
+      "halter",
+      "sweetheart",
+      "not visible"
+    ],
+    "length": ["crop", "mid", "tunic"],
+    "pattern": [
+      "abstract",
+      "floral",
+      "horizontal_stripes",
+      "plaid",
+      "text_and_logos",
+      "camouflage",
+      "gingham",
+      "leopard",
+      "polka_dots",
+      "tribal",
+      "chevron",
+      "graphic",
+      "not_visible",
+      "solids",
+      "vertical_stripes"
+    ],
+    "detail": ["distressed", "embroidered", "lace", "plain", "ruffle"],
+    "material": [
+      "chiffon",
+      "cotton",
+      "denim",
+      "glitter",
+      "leather",
+      "linen",
+      "satin",
+      "velvet",
+      "wool",
+      "not sure"
+    ]
+  },
+  "Bottom": {
+    "type": ["Skirt", "Shorts", "Pants"]
+  },
+  "Shorts": {
+    "length": ["short", "mid", "long"],
+    "detail": ["distressed", "embroidered", "not visible", "plain", "pleated"],
+    "pattern": ["checks", "printed", "solids", "stipes", "textlogos"],
+    "material": ["cotton", "denim", "leather", "satin", "not sure"]
+  },
+  "Skirt": {
+    "length": ["knee", "maxi", "mini", "short", "three quarter"],
+    "skirt_type": ["flared", "pencil", "straight"],
+    "detail": [
+      "distressed",
+      "embroidered",
+      "not visible",
+      "plain",
+      "pleat",
+      "ruffle"
+    ],
+    "pattern": [
+      "abstract",
+      "floral",
+      "horizontal_stripes",
+      "plaid",
+      "text_and_logos",
+      "camouflage",
+      "gingham",
+      "leopard",
+      "polka_dots",
+      "tribal",
+      "chevron",
+      "graphic",
+      "not_visible",
+      "solids",
+      "vertical_stripes"
+    ],
+    "material": [
+      "chiffon",
+      "cotton",
+      "denim",
+      "glitter",
+      "lace",
+      "leather",
+      "linen",
+      "satin",
+      "velvet",
+      "wool",
+      "not sure"
+    ]
+  },
+  "Pants": {
+    "ankle": ["wide leg", "bootcup", "tapered", "cigerate", "not visible"],
+    "fit": ["straight", "skinny", "loose", "pallazo"],
+    "length": ["ankle", "crop", "full"],
+    "detail": ["distressed", "embroidered", "plain", "pleated"],
+    "pattern": ["checks", "printed", "solids", "stipes", "camouflage"],
+    "material": ["cotton", "denim", "leather", "satin", "not sure"]
+  }
+}
